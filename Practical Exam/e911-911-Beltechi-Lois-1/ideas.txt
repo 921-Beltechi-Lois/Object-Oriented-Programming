@@ -1,0 +1,3 @@
+Desc1;proposed;Dana;3
+Desc2;accepted;Paul;2
+Desc3;proposed;Andrei;1
